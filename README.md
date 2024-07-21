@@ -1,3 +1,7 @@
+## License
+
+This project is licensed under the [GPL License](./LICENSE) - see the LICENSE file for details.
+
 # Netflix Clone
 
 A simple Netflix clone built with HTML, CSS, and JavaScript.
