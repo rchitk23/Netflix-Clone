@@ -2,10 +2,6 @@
 
 This project is licensed under the [GPL License](./LICENSE) - see the LICENSE file for details.
 
-## Live Demo
-
-You can view the live demo of this project at [Netflix Clone](https://netflix-clone-eosin-tau.vercel.app).
-
 # Netflix Clone
 
 A simple Netflix clone built with HTML, CSS, and JavaScript.
