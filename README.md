@@ -2,9 +2,9 @@
 
 This project is licensed under the [GPL License](./LICENSE) - see the LICENSE file for details.
 
-##**Live Preview**
+#Live Preview
 You can view the live version of this project at the following URL:
-https://netflix-clone-nine-ruby.vercel.app/
+[https://netflix-clone-nine-ruby.vercel.app/](https://netflix-clone-nine-ruby.vercel.app/)
 
 # Netflix Clone
 
