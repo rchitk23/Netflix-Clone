@@ -4,8 +4,7 @@ This project is licensed under the [GPL License](./LICENSE) - see the LICENSE fi
 
 ## Live Demo
 
-You can view the live demo of this project at [Netflix Clone](netflix-clone-eosin-tau.vercel.app
-).
+You can view the live demo of this project at [Netflix Clone](https://netflix-clone-eosin-tau.vercel.app).
 
 # Netflix Clone
 
